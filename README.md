@@ -25,12 +25,6 @@ I enjoy analyzing data, creating visualizations, and building dashboards to comm
 Check out my interactive Tableau visualizations:  
 [![Tableau](https://img.shields.io/badge/-Tableau-blue)](https://public.tableau.com/app/profile/neha.kushwaha/vizzes)
 
-## Skills  
-- **Programming Languages:** Python, SQL  
-- **Data Analysis & Manipulation:** Excel, Pandas, NumPy  
-- **Data Visualization:** Tableau, Matplotlib, Seaborn  
-- **Machine Learning:** Basic understanding of algorithms
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/kumari-neha-760367309)
 
