@@ -1,7 +1,14 @@
 # Hi, I'm Kumari Neha
 ### Aspiring Data Analyst | SQL | Python | Tableau | Excel
+Passionate about transforming data into meaningful insights to drive business decisions.  
+Skilled in **data cleaning, visualization, statistical analysis, and storytelling**.  
+Enthusiastic about **exploratory data analysis (EDA), dashboard creation, and predictive modeling**.  
 
-Passionate about data insights, visualization, and decision-making.
+## About Me  
+I am an aspiring **Data Analyst** with a strong foundation in **SQL, Python, Tableau, and Excel**.  
+I love working with data to uncover trends, patterns, and insights that can help businesses make informed decisions.  
+I have worked on **diverse datasets** related to **healthcare, sales, agriculture, and finance**, applying **data analytics and machine learning** to solve real-world problems.  
+I enjoy **building interactive dashboards, automating data processes, and presenting complex findings in an easy-to-understand way**.  
 
 ## Featured Projects
 - **[Financial Analysis of Superstore Sales](https://github.com/KumariNeha26/Financial-Analysis-of-Superstore-Sales)**
