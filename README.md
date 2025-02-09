@@ -6,16 +6,16 @@ Passionate about transforming raw data into meaningful insights to drive busines
 Open to opportunities where I can apply my analytical skills and contribute to data-driven strategies.
 
 ## Featured Projects
-- **[Financial Analysis of Superstore Sales](https://github.com/KumariNeha26/Financial-Analysis-of-Superstore-Sales)** – Analyzed sales data to identify trends and profitability insights.  
-- **[Green Destinations HR Analytics](https://github.com/KumariNeha26/Green-Destinations-HR-Analytics)** – Explored HR data to understand workforce trends and optimize hiring decisions.  
-- **[Heart Disease Diagnostic Analysis using Tableau](https://github.com/KumariNeha26/Heart-Disease-Diagnostic-Analysis-using-Tableau/tree/main)** – Developed an interactive Tableau dashboard for patient risk assessment.
-- **[Crop-Production-Analysis-in-India](https://github.com/KumariNeha26/Crop-Production-Analysis-in-India)** – Investigated agricultural trends to forecast production and improve planning.  
-- **[Supermart Grocery Sales - Retail Analytics](https://github.com/KumariNeha26/Supermart-Grocery-Sales---Retail-Analytics-Dataset)** – Investigated agricultural trends to forecast production and improve planning.
-- **[World-Population-Analysis](https://github.com/KumariNeha26/World-Population-Analysis)** – Investigated agricultural trends to forecast production and improve planning.  
-- **[Iris Classification](https://github.com/KumariNeha26/Iris-Classification)** – Built a basic machine learning model for flower species classification.
-- **[Heart Disease Diagnostic Analysis](https://github.com/KumariNeha26/Heart-Disease-Diagnostic-Analysis)** – Identified key risk factors using statistical and predictive modeling.  
-- **[Coffee Sales Analysis](https://github.com/KumariNeha26/Coffee-Sales-Analysis)** – Evaluated sales data to uncover consumer preferences and market trends.
-- **[Drugs Side Effects and Medical Condition- arrow_drop_up](https://github.com/KumariNeha26/Drugs-Side-Effects-and-Medical-Condition-arrow_drop_up/tree/main)** – Evaluated sales data to uncover consumer preferences and market trends.
+- **[Financial Analysis of Superstore Sales](https://github.com/KumariNeha26/Financial-Analysis-of-Superstore-Sales)** – Sales trends & profitability insights.  
+- **[Green Destinations HR Analytics](https://github.com/KumariNeha26/Green-Destinations-HR-Analytics)** – Workforce trends & hiring optimization.  
+- **[Heart Disease Diagnostic Analysis using Tableau](https://github.com/KumariNeha26/Heart-Disease-Diagnostic-Analysis-using-Tableau/tree/main)** – Interactive dashboard for risk assessment.
+- **[Crop-Production-Analysis-in-India](https://github.com/KumariNeha26/Crop-Production-Analysis-in-India)** – Forecasting agricultural productivity.
+- **[Supermart Grocery Sales - Retail Analytics](https://github.com/KumariNeha26/Supermart-Grocery-Sales---Retail-Analytics-Dataset)** – Retail sales & inventory optimization.
+- **[World-Population-Analysis](https://github.com/KumariNeha26/World-Population-Analysis)** – Demographic trends & projections.
+- **[Iris Classification](https://github.com/KumariNeha26/Iris-Classification)** – Basic ML model for species classification.
+- **[Heart Disease Diagnostic Analysis](https://github.com/KumariNeha26/Heart-Disease-Diagnostic-Analysis)** – Risk factor identification & prediction.
+- **[Coffee Sales Analysis](https://github.com/KumariNeha26/Coffee-Sales-Analysis)** – Consumer preferences & market trends.
+- **[Drugs Side Effects and Medical Condition- arrow_drop_up](https://github.com/KumariNeha26/Drugs-Side-Effects-and-Medical-Condition-arrow_drop_up/tree/main)** – Drug effects & correlations.
 
 ## Technical Skills  
 - **Programming & Querying:** Python, SQL  
