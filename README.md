@@ -1,6 +1,8 @@
 # Hi, I'm Kumari Neha
 Aspiring Data Analyst | SQL | Python | Tableau | Excel | Data Insights & Visualization | Machine Learning (Basic)  
+
 Passionate about transforming raw data into meaningful insights to drive business decisions. Proficient in data analysis, cleaning, and visualization using industry-standard tools. Experienced in handling diverse datasets, performing exploratory data analysis (EDA), and building interactive dashboards. Adept at using SQL for data manipulation and Python for statistical analysis.
+
 Open to opportunities where I can apply my analytical skills and contribute to data-driven strategies.
 
 ## Featured Projects
