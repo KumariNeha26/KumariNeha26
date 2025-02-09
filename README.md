@@ -1,14 +1,13 @@
 # Hi, I'm Kumari Neha
 ### Aspiring Data Analyst | SQL | Python | Tableau | Excel
-Passionate about transforming data into meaningful insights to drive business decisions.  
-Skilled in **data cleaning, visualization, statistical analysis, and storytelling**.  
-Enthusiastic about **exploratory data analysis (EDA), dashboard creation, and predictive modeling**.  
+Eager to explore data and uncover insights to support decision-making.  
+Skilled in **data cleaning, visualization, and machine learning (basic)**.  
+Open to opportunities in **data analytics** to grow and apply my skills.  
 
 ## About Me  
-I am an aspiring **Data Analyst** with a strong foundation in **SQL, Python, Tableau, and Excel**.  
-I love working with data to uncover trends, patterns, and insights that can help businesses make informed decisions.  
-I have worked on **diverse datasets** related to **healthcare, sales, agriculture, and finance**, applying **data analytics and machine learning** to solve real-world problems.  
-I enjoy **building interactive dashboards, automating data processes, and presenting complex findings in an easy-to-understand way**.  
+I am a **fresher** in data analytics with a strong interest in working with data to solve real-world problems.  
+I have **hands-on experience** with **SQL, Python, Tableau, and Excel** through various projects.  
+I enjoy analyzing data, creating visualizations, and building dashboards to communicate findings effectively.  
 
 ## Featured Projects
 - **[Financial Analysis of Superstore Sales](https://github.com/KumariNeha26/Financial-Analysis-of-Superstore-Sales)**
@@ -25,6 +24,12 @@ I enjoy **building interactive dashboards, automating data processes, and presen
 ## Tableau Dashboards
 Check out my interactive Tableau visualizations:  
 [![Tableau](https://img.shields.io/badge/-Tableau-blue)](https://public.tableau.com/app/profile/neha.kushwaha/vizzes)
+
+## Skills  
+- **Programming Languages:** Python, SQL  
+- **Data Analysis & Manipulation:** Excel, Pandas, NumPy  
+- **Data Visualization:** Tableau, Matplotlib, Seaborn  
+- **Machine Learning:** Basic understanding of algorithms   
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/kumari-neha-760367309)
