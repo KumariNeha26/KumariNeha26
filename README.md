@@ -29,7 +29,7 @@ Check out my interactive Tableau visualizations:
 - **Programming Languages:** Python, SQL  
 - **Data Analysis & Manipulation:** Excel, Pandas, NumPy  
 - **Data Visualization:** Tableau, Matplotlib, Seaborn  
-- **Machine Learning:** Basic understanding of algorithms   
+- **Machine Learning:** Basic understanding of algorithms
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/kumari-neha-760367309)
