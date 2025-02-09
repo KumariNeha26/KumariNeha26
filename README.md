@@ -3,7 +3,7 @@
 
 Passionate about data insights, visualization, and decision-making.
 
-## 📌 Featured Projects
+## Featured Projects
 - **[Financial Analysis of Superstore Sales](https://github.com/KumariNeha26/Financial-Analysis-of-Superstore-Sales)**
 - **[Green Destinations HR Analytics](https://github.com/KumariNeha26/Green-Destinations-HR-Analytics)**
 - **[Heart Disease Diagnostic Analysis using Tableau](https://github.com/KumariNeha26/Heart-Disease-Diagnostic-Analysis-using-Tableau/tree/main)**
@@ -15,12 +15,12 @@ Passionate about data insights, visualization, and decision-making.
 - **[Coffee Sales Analysis](https://github.com/KumariNeha26/Coffee-Sales-Analysis)**
 - **[Drugs Side Effects and Medical Condition- arrow_drop_up](https://github.com/KumariNeha26/Drugs-Side-Effects-and-Medical-Condition-arrow_drop_up/tree/main)**
 
-## 📊 Tableau Dashboards
+## Tableau Dashboards
 Check out my interactive Tableau visualizations:  
 [![Tableau](https://img.shields.io/badge/-Tableau-blue)](https://public.tableau.com/app/profile/neha.kushwaha/vizzes)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/kumari-neha-760367309)
-📧 Email: kushneha0726@gmail.com
+Email: kushneha0726@gmail.com
 
 
