@@ -26,4 +26,16 @@ Check out my interactive Tableau visualizations:
 
 Email: kushneha0726@gmail.com
 
+ **[Financial Analysis of Superstore Sales](#)** – Analyzed sales data to identify trends and profitability insights.  
+- **[Green Destinations HR Analytics](#)** – Explored HR data to understand workforce trends and optimize hiring decisions.  
+- **[Heart Disease Diagnostic Analysis using Tableau](#)** – Developed an interactive Tableau dashboard for patient risk assessment.  
+- **[Crop Production Analysis in India](#)** – Investigated agricultural trends to forecast production and improve planning.  
+- **[Supermart Grocery Sales - Retail Analytics](#)** – Analyzed retail sales data to optimize inventory and pricing strategies.  
+- **[World Population Analysis](#)** – Conducted demographic analysis to understand population trends and projections.  
+- **[Iris Classification](#)** – Built a basic machine learning model for flower species classification.  
+- **[Heart Disease Diagnostic Analysis](#)** – Identified key risk factors using statistical and predictive modeling.  
+- **[Coffee Sales Analysis](#)** – Evaluated sales data to uncover consumer preferences and market trends.  
+- **[Drugs Side Effects and Medical Condition Analysis](#)** – Analyzed medical data to study correlations between drugs and side effects.  
+
+
 
