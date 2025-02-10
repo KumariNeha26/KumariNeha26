@@ -22,7 +22,6 @@ Open to opportunities where I can apply my analytical skills and contribute to d
 - **Data Analysis:** Excel, Pandas, NumPy  
 - **Data Visualization:** Tableau, Matplotlib, Seaborn  
 - **Machine Learning:** Basic understanding of algorithms  
-- **Database Management:** MySQL, PostgreSQL  
 - **ETL & Data Processing:** Data cleaning, transformation, and reporting
   
 ## Tableau Dashboards
