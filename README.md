@@ -20,8 +20,11 @@ Open to opportunities where I can apply my analytical skills and contribute to d
 ## Technical Skills  
 - **Programming & Querying:** Python, SQL  
 - **Data Analysis:** Excel, Pandas, NumPy  
-- **Data Visualization:** Tableau, Matplotlib, Seaborn  
-- **Machine Learning:** Basic understanding of algorithms  
+- **Data Visualization:** Tableau, Matplotlib, Seaborn
+- **Statistical Analysis:** Descriptive & Inferential Statistics
+- **Database Management:** Understanding of Relational
+Databases
+- **Machine Learning:** Basic understanding of algorithms
 - **ETL & Data Processing:** Data cleaning, transformation, and reporting
   
 ## Tableau Dashboards
