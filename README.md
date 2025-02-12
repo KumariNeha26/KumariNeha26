@@ -7,7 +7,7 @@ Open to opportunities where I can apply my analytical skills and contribute to d
 
 ## Featured Projects
 - **[Financial Analysis of Superstore Sales](https://github.com/KumariNeha26/Financial-Analysis-of-Superstore-Sales)** – Sales trends & profitability insights.  
-- **[Green Destinations HR Analytics](https://github.com/KumariNeha26/Green-Destinations-HR-Analytics)** – Workforce trends & hiring optimization.  
+- **[Green Destinations-HR Analytics](https://github.com/KumariNeha26/Green-Destinations-HR-Analytics)** – Workforce trends & hiring optimization.  
 - **[Heart Disease Diagnostic Analysis using Tableau](https://github.com/KumariNeha26/Heart-Disease-Diagnostic-Analysis-using-Tableau/tree/main)** – Interactive dashboard for risk assessment.
 - **[Crop-Production-Analysis-in-India](https://github.com/KumariNeha26/Crop-Production-Analysis-in-India)** – Forecasting agricultural productivity.
 - **[Supermart Grocery Sales - Retail Analytics](https://github.com/KumariNeha26/Supermart-Grocery-Sales---Retail-Analytics-Dataset)** – Retail sales & inventory optimization.
