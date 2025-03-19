@@ -29,11 +29,11 @@ Databases
   
 ## Tableau Dashboards
 Check out my interactive Tableau visualizations:  
-[![Tableau](https://img.shields.io/badge/-Tableau-blue)](https://public.tableau.com/app/profile/neha.kushwaha/vizzes)
+[![Tableau](https://img.shields.io/badge/-Tableau-blue)](https://public.tableau.com/app/profile/kumari.neha/vizzes)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/kumari-neha-760367309)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/kumari-neha26)
 
-Email: kushneha0726@gmail.com
+Email: kumarineha26.work@gmail.com
 
 
