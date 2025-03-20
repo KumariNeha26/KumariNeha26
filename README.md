@@ -34,6 +34,6 @@ Check out my interactive Tableau visualizations:
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/kumari-neha26)
 
-Email: kumarineha26.work@gmail.com
+Email: kumarinehaofficial26@gmail.com
 
 
